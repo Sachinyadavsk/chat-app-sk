@@ -16,16 +16,14 @@
  ```JWT_SECRET=...
  ```NODE_ENV=...
  ```Build the app
- 
-2.  Install dependencies
+
+##  Install dependencies
 
    ```bash
-   npm install
-   ```
-
-3. Start the app
+   ```npm install
+   
+## Start the app
 
    ```bash
-``` npm run build
-```Start the app
+  ```npm run dev
 
