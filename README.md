@@ -1,4 +1,4 @@
-# Welcome to your React.js Project 👋
+# Welcome to your Chat App Sk Project 👋
 1. Some Features:
  ```🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
  ```🎃 Authentication && Authorization with JWT
